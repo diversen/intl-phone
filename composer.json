@@ -1,0 +1,27 @@
+{
+    "name": "diversen/intl-phone",
+    "description": "Get intl dial code info from country code",
+    "homepage": "https://github.com/diversen/intl-phone",
+    "keywords": ["I18n", "phone"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis Iversen",
+            "email": "dennis.iversen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "diversen\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
+
