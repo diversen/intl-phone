@@ -8,7 +8,7 @@ Install:
 
 Usage: 
 
-~~~
+~~~.php
 include_once "vendor/autoload.php";
 
 use \diversen\intl\phone;
@@ -20,6 +20,7 @@ print_r($ary);
 ~~~
 
 Yields: 
+
 
     Array
     (
