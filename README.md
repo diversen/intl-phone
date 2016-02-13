@@ -1,6 +1,7 @@
 # intl-phone
  
-Get intl dial code info from country code
+Get intl dial code info from country code (ISO 3166-1 alpha-2 code)
+See: [https://en.wikipedia.org/wiki/ISO_3166-1](https://en.wikipedia.org/wiki/ISO_3166-1)
 
 Install:
 
